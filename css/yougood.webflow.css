@@ -1592,6 +1592,10 @@ a {
   text-align: center;
 }
 
+.section-2 {
+  padding: 108px;
+}
+
 @media screen and (max-width: 991px) {
   h2 {
     font-size: 34px;
@@ -2196,6 +2200,10 @@ a {
   .uui-blogpost06_header {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
+  }
+
+  .section-2 {
+    padding: 40px 0px 0px;
   }
 }
 
